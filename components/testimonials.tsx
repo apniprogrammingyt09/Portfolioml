@@ -1,3 +1,4 @@
+"use client"
 export default function Testimonials() {
   return (
     <section className="py-20 px-4 max-w-7xl mx-auto" id="testimonials">
@@ -54,7 +55,10 @@ export default function Testimonials() {
       </div>
 
       <div className="mt-16 text-center">
-        <button className="bg-gray-200 text-gray-800 px-6 py-2 rounded-full font-medium hover:bg-gray-300 transition-colors">
+        <button
+          className="bg-gray-200 text-gray-800 px-6 py-2 rounded-full font-medium hover:bg-gray-300 transition-colors"
+          onClick={() => window.location.href = "mailto:bhagatkrish65@gmail.com"}
+        >
           Get in touch
         </button>
       </div>
