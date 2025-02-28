@@ -47,7 +47,7 @@ export default function Hero() {
         <div className="relative">
           <div className="relative w-full max-w-md mx-auto">
             <Image
-              src="/KRISH1.png"
+              src="/krish1.png"
               alt="Krish Bhagat"
               width={400}
               height={400}
