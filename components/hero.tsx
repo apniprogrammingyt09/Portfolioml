@@ -15,7 +15,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-gray-600 text-lg leading-relaxed">
-            I'm a FastAPI, AI/ML developer, web enthusiast, and co-founder of KodRish Innovation & Solution LLP. I
+            I'm a FastAPI, AI/ML developer, web enthusiast, and founder of KodRish Innovation & Solution LLP. I
             specialize in deep learning, FastAPI, and full-stack development, working on projects like Vaani Sahayak,
             Holistic Mental Health Tracker, Bird Assist and more. I actively participate in hackathons and love pushing
             the boundaries of tech innovation.
