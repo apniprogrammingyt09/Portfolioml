@@ -33,7 +33,7 @@ export default function AboutMe() {
           <h3 className="text-3xl font-bold">Curious about me? Here you have it:</h3>
 
           <p className="text-gray-700">
-            I'm Krish Bhagat, a passionate AI/ML developer, full-stack web enthusiast, and co-founder of KodRish
+            I'm Krish Bhagat, a passionate AI/ML developer, full-stack web enthusiast, and founder of KodRish
             Innovation & Solution LLP. I specialize in deep learning, FastAPI, and full-stack development, actively
             working on projects like Vaani Sahayak (Indian Sign Language Translator), InternSahayak, and several other
             AI-driven innovations. My goal is to bridge the gap between technology and real-world problems, making
